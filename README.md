@@ -5,7 +5,9 @@
 [![Downloads](https://pepy.tech/badge/rembg/week)](https://pepy.tech/project/rembg/week)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://img.shields.io/badge/License-MIT-blue.svg)
 
-Rembg is a tool to remove images background. That is it.
+Rembg is a tool to remove images background. That is it. 
+PhotoSpherix made changes to this file to better work with our <a href="https://photospherix.com">360 product photography</a>.
+This was done for better object detection along with shadow retention across multiple frames.
 
 <p style="display: flex;align-items: center;justify-content: center;">
   <img src="https://raw.githubusercontent.com/danielgatis/rembg/master/examples/car-1.jpg" width="100" />
